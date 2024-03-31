@@ -1,0 +1,36 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/login/Login",
+    "pages/doctor/index",
+    "pages/service/index",
+    "pages/service/sign/sign",
+    "pages/doctor/doctorInfo/doctorInfo",
+    "pages/service/appoint/appoint",
+    "pages/service/cancel/cancel",
+    "pages/service/personal/personal",
+    "pages/service/record/record"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "uni-app",
+    "navigationBarBackgroundColor": "#F8F8F8",
+    "backgroundColor": "#F8F8F8"
+  },
+  "tabBar": {
+    "list": [
+      {
+        "pagePath": "pages/index/index"
+      },
+      {
+        "pagePath": "pages/doctor/index"
+      },
+      {
+        "pagePath": "pages/service/index"
+      }
+    ]
+  },
+  "usingComponents": {},
+  "sitemapLocation": "sitemap.json"
+}

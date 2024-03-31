@@ -1,0 +1,23 @@
+{
+  "name": "doctor-app",
+  "version": "1.0.0",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "md5": "^2.3.0",
+    "moment": "^2.29.1",
+    "store": "^2.0.12",
+    "uview-ui": "^1.8.4"
+  },
+  "devDependencies": {
+    "node-sass": "^5.0.0",
+    "sass-loader": "^11.1.0"
+  }
+}
